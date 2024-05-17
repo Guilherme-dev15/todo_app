@@ -2,3 +2,9 @@
 *.jsx linguist-language=JavaScript
 *.ts linguist-language=TypeScript
 *.tsx linguist-language=TypeScript
+
+vendor/* linguist-vendored
+
+build/* linguist-vendored
+
+public/* linguist-vendored
